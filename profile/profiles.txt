@@ -1,1 +1,24 @@
+Name of the student : Rachagolla jyothika
+Learning Track : Salesforce- Developer
+Project Name : Build an event management system using salesforce
+Trailhead profile : https://www.salesforce.com/trailblazer/jyothikayadav
+Developer org username : Jyothika467@gdcproject.com
+Developer org passsword : Gayatri@123
+Position : team lead 
+
+Name of the student : Polipongu Meghana
+Learning Track : Salesforce- Developer
+Project Name : Build an event management system using salesforce
+Trailhead profile : salesforce.com/trailblazer/meghanapolipongu
+Developer org username : pmeghana696@gdcproject.com
+Developer org passsword : Gayatri@123
+Position : team member
+
+Name of the student : Ranganadham Nandini
+Learning Track : Salesforce- Developer
+Project Name : Build an event management system using salesforce
+Trailhead profile : https://www.salesforce.com/trailblazer/nandiniranganadham
+Developer org username : ranganadhamnandhini@gdcproject.com
+Developer org passsword : Gayatri@12271
+Position : team member team member
 
