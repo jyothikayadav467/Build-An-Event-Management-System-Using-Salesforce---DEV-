@@ -1,10 +1,10 @@
-Name of the student : Rachagolla jyothika
-Learning Track : Salesforce- Developer
+Name of the student : Rachagolla Jyothika
+Learning Track : Salesforce - Developer
 Project Name : Build an event management system using salesforce
 Trailhead profile : https://www.salesforce.com/trailblazer/jyothikayadav
-Developer org username : Jyothika467@gdcproject.com
-Developer org passsword : Gayatri@123
-Position : team lead 
+Developer org username : Jyothika467@gdcltproject.com
+Developer org passsword : Gayatri@12345
+Position : Team Lead 
 
 Name of the student : Polipongu Meghana
 Learning Track : Salesforce- Developer
@@ -14,11 +14,26 @@ Developer org username : pmeghana696@gdcproject.com
 Developer org passsword : Gayatri@123
 Position : team member
 
-Name of the student : Ranganadham Nandini
+Name of the student : Balsal Pravallika
+Learning Track : Salesforce-Developer
+Project Name : Build an event management system using salesforce
+Trailhead profile : https://www.salesforce.com/trailblazer/pravallikabalsal
+Developer org username : balsalpravallika@gdcproject.com
+Developer org passsword : Gayatri@123
+Position : team member
+
+Name of the student : Palapandala Karthika
 Learning Track : Salesforce- Developer
 Project Name : Build an event management system using salesforce
-Trailhead profile : https://www.salesforce.com/trailblazer/nandiniranganadham
-Developer org username : ranganadhamnandhini@gdcproject.com
-Developer org passsword : Gayatri@12271
-Position : team member team member
+Trailhead profile : https://www.salesforce.com/trailblazer/karthikapalapandala
+Developer org username : Karthika@gdcproject.com
+Developer org passsword : Gayatri@123
+Position : team member
 
+Name of the student : Kalavakunta Vishnupriya
+Learning Track : Administrator
+Project Name : Build an event management system using salesforce
+Trailhead profile : https://www.salesforce.com/trailblazer/xnc92z14r0g3xmzqk8
+Developer org username :  priya@gdcproject.com
+Developer org passsword : Gayatri@123
+Position : team member
